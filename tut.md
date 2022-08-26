@@ -1,0 +1,9 @@
+https://css-tricks.com/min-max-and-clamp-are-css-magic/
+https://sketchfab.com/3d-models/antique-chair-9405ab67fe28470bb324c1f7ca9e233c
+https://demo.graygrids.com/themes/shopgrids/cart.html
+https://www.youtube.com/watch?v=G7_0VxMRJe4
+https://formik.org/docs/guides/typescript
+https://github.com/jquense/yup
+https://nextjs.org/docs/basic-features/typescript
+https://medium.com/@maurice.de.beijer/yup-validation-and-typescript-and-formik-6c342578a20e
+https://www.guru99.com/free-online-course-with-certificate.html
